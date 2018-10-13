@@ -1,0 +1,24 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "This is just to test the App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suntosh70/TestApp.git"
+  },
+  "keywords": [
+    "First",
+    "Node",
+    "App"
+  ],
+  "author": "Santosh Ahuja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suntosh70/TestApp/issues"
+  },
+  "homepage": "https://github.com/suntosh70/TestApp#readme"
+}

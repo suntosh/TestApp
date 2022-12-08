@@ -23,7 +23,7 @@
   "homepage": "https://github.com/suntosh70/TestApp#readme",
   "dependencies": {
     "connect-mongodb-session": "^2.0.3",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "express-session": "^1.15.6",
     "ffi": "^2.2.0",
     "loopback": "^3.23.0",
